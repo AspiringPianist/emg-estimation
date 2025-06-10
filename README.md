@@ -19,7 +19,7 @@ Check `data/labelling.py`
 
 
 ## Current Status
-In the cleaned version, EEG is lagging behind EMG which shouldn't happen. 
+In the cleaned version, EMG is lagging behind EEG which shouldn't happen. 
 
  
 Use DPSS Taper window to remove noise in PSD of EEG. 
