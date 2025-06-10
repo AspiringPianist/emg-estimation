@@ -1,6 +1,10 @@
 # emg-estimation
 ## Data
-Link to updated dataset (as of June 10th, 2025): [OneDrive](https://iiitbac-my.sharepoint.com/:f:/g/personal/unnath_chittimalla_iiitb_ac_in/EoR21uJPk8pFgPrnIXmEQAoBTbSY4u_mL5qoUZqQK7UoFw?e=gYff6N)
+Link to updated dataset (as of June 10th, 2025): [OneDrive](https://iiitbac-my.sharepoint.com/:f:/g/personal/unnath_chittimalla_iiitb_ac_in/EoR21uJPk8pFgPrnIXmEQAoBTbSY4u_mL5qoUZqQK7UoFw?e=gYff6N) 
+
+ Dominant EEG Channels - `O2, C3 and Cz` (according to Common Referential 19 Montage)
+
+Respective Channel Numbers - `16, 9, 18`
 
 ## Exploratory Data Analysis 
 Done in `eeg_emg_analysis/eda_forsure.ipynb` and also checkout `eeg_emg_analysis/stft_eeg_vs_emg.py`
