@@ -1,6 +1,9 @@
 # emg-estimation
 ## How to add new data? 
-After collecting the data in a folder, place the folder containing all trials with appropriate naming format like `Bicep_{numtrials}_Trials_{Month}{Date}_{attempt}` in same directory with the `cleandata1.py` and `clean_all_datasets_in_folder.py`. After this, run `combine_all_cleaned_data.py` to get the CSV. For ease of use, the CSV is reformatted into a more understandable representation in `eeg_emg_analysis/eda_forsure.ipynb` which is what we use everywhere. 
+After collecting the data in a folder, place the folder containing all trials with appropriate naming format like `Bicep_{numtrials}_Trials_{Month}{Date}_{attempt}` in same directory with the `data/cleandata1.py` and `data/clean_all_datasets_in_folder.py`. After this, run `data/combine_all_cleaned_data.py` to get the CSV. For ease of use, the CSV is reformatted into a more understandable representation in `eeg_emg_analysis/eda_forsure.ipynb` which is what we use everywhere. 
+
+If you don't want to clean data and instead observe the raw, unaligned data then just run `data/combine_all_data.csv` in the folder with all datasets (which each contain their trials). 
+
 
 
 ## Data
