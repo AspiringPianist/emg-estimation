@@ -17,7 +17,3 @@ Basic data analysis done in `eeg_emg_analysis/eda_forsure.ipynb` and also checko
 ## Labelling/Filter Tool
 Check `data/labelling.py`
 ![image](https://github.com/user-attachments/assets/0a268852-b392-4b49-a3dc-47ab7c041ca5)
-
-## Current Status
-Test R2-score : 0.23292342004137473 
-Correlation score: 0.7837367363450538 
