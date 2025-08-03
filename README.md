@@ -2,6 +2,7 @@
 Model Training Plots
 
 <img width="4470" height="2966" alt="image" src="https://github.com/user-attachments/assets/ba15ce2a-93af-4414-a988-4327550a6a7b" />
+<img width="2970" height="1765" alt="image" src="https://github.com/user-attachments/assets/d18b3a8c-2080-40bd-9250-0fd4c3d5ce74" />
 
 
 ## How to add new data? 
