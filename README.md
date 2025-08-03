@@ -1,4 +1,9 @@
 # emg-estimation
+Model Training Plots
+
+<img width="4470" height="2966" alt="image" src="https://github.com/user-attachments/assets/ba15ce2a-93af-4414-a988-4327550a6a7b" />
+
+
 ## How to add new data? 
 After collecting the data in a folder, place the folder containing all trials with appropriate naming format like `Anything_{numtrials}_Trials_{Month}{Date}_{attempt}` in same directory with the `data/cleandata2.py` and `data/clean_all_datasets_in_folder.py`. After this, run `data/arrange_all_cleaned_data.py` to get the CSVs into a directory like `./cleaned_data`.
 
